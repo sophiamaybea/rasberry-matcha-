@@ -1,0 +1,6 @@
+{
+  "name": "HUMAN — Relationship Intelligence",
+  "description": "Digital flagship for HUMAN: high-production couture visual art direction, interactive 3D web experience, and AI relationship intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
